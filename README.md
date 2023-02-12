@@ -7,7 +7,7 @@ for example:
 
 ## Related Sites
 
-[Key Converter](https://damus.io/key/)
-[bech32-buffer](https://slowli.github.io/bech32-buffer/)
-[nostr - Notes and Other Stuff Transmitted by Relays](https://github.com/nostr-protocol/nostr)
-[iris.to](https://iris.to/)
+- [Key Converter](https://damus.io/key/)
+- [bech32-buffer](https://slowli.github.io/bech32-buffer/)
+- [nostr - Notes and Other Stuff Transmitted by Relays](https://github.com/nostr-protocol/nostr)
+- [iris.to](https://iris.to/)
